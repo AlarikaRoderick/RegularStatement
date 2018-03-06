@@ -25,8 +25,5 @@ public class RegularStatement {
                 System.out.println("Предложение " + (i+1));
                 System.out.println(TestStringParts[i]);
         }
-        //System.out.println(test(str));
-
-
     }
 }
